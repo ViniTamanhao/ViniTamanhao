@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinícius Tamanhão</h1>
 <h3 align="center">A passionate brazilian full-stack developer</h3>
 
-- 🔭 I’m currently working with **Node.js and Swift**
+- 🔭 I’m currently working with **Node.js and Machine Learning**
 
 - 🌱 I’m currently deepening my knowledges on **Node.js**
 
