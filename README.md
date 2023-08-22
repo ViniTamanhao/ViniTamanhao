@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vinícius Tamanhão</h1>
 <h3 align="center">A passionate brazilian full-stack developer</h3>
 
-- 🔭 I’m currently working with **Node.js and Machine Learning**
+- 🔭 I’m currently working with **Node.js, Machine Learning and React Applications**
 
-- 🌱 I’m currently deepening my knowledges on **Node.js**
+- 🌱 I’m currently deepening my knowledges on **Node.js and React.ts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViniTamanhao](https://github.com/ViniTamanhao)
 
