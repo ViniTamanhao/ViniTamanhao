@@ -1,16 +1,50 @@
 <h1 align="center">Hi, I'm Vinícius Tamanhão</h1>
-<h3 align="center">A passionate brazilian full-stack developer</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Engineer | Systems Programmer</h3>
 
-- 🔭 I’m currently working with **Node.js, Machine Learning and React Applications**
+---
 
-- 🌱 I’m currently deepening my knowledges on **Node.js and React.ts**
+**What I Do**  
+- 🧠 I work with **Machine Learning and AI** using Python — from models to real-world applications.  
+- 🌐 I’m a web development specialist building scalable **Node.js** backends and sleek **React/TypeScript** frontends.  
+- ⚙️ I write **Rust** for high-performance, memory-efficient, cross-platform tools and systems software.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ViniTamanhao](https://github.com/ViniTamanhao)
+---
 
-- 📫 How to reach me **vtamanhao@gmail.com**
+🧪 **What I'm Up To**  
+- 🔭 Currently building an open-source, cross-platform network monitor in **Rust**.
+- 🔬 Deepening expertise in **LLMs**, **vector search**, and **semantic search** pipelines.
+- 💻 Always crafting new tools with **TypeScript**, **Next.js**, and **Tauri**.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+📂 **Find My Work**  
+> 🧠 AI, 🌍 Web Apps, ⚙️ Rust Tools  
+Check out everything I’m building:  
+👉 [github.com/ViniTamanhao](https://github.com/ViniTamanhao)
+
+📫 **Let's Connect**  
+Feel free to reach out for collaboration, projects, or just to say hi:  
+**Email**: vtamanhao@gmail.com
+
+---
+
+<h3 align="left">📡 Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinícius silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinícius silva" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vinícius silva" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinícius silva" height="30" width="40" />
+  </a>
 </p>
 
+---
+
+🛠️ **Tech Stack**
+
+| Domain         | Tools & Languages                         |
+|----------------|-------------------------------------------|
+| Machine Learning / AI | Python, PyTorch, Transformers, Jupyter |
+| Web Development | TypeScript, Node.js, React, Next.js       |
+| Systems Programming | Rust, Tauri, Databases, Linux (Arch btw)       |
+
+---
+
+_Always building. Always learning._  
