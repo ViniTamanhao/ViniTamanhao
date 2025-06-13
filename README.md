@@ -41,8 +41,8 @@ Feel free to reach out for collaboration, projects, or just to say hi:
 | Domain         | Tools & Languages                         |
 |----------------|-------------------------------------------|
 | Machine Learning / AI | Python, PyTorch, Transformers, Jupyter |
-| Web Development | TypeScript, Node.js, React, Next.js       |
-| Systems Programming | Rust, Tauri, Databases, Linux (Arch btw)       |
+| Web Development | TypeScript, Node.js, React, Next.js, Go       |
+| Systems Programming | Go , Databases, Linux (Arch btw)       |
 
 ---
 
