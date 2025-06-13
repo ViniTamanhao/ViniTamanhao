@@ -6,19 +6,18 @@
 **What I Do**  
 - 🧠 I work with **Machine Learning and AI** using Python — from models to real-world applications.  
 - 🌐 I’m a web development specialist building scalable **Node.js** backends and sleek **React/TypeScript** frontends.  
-- ⚙️ I write **Rust** for high-performance, memory-efficient, cross-platform tools and systems software.
+- ⚙️ I write **GO** for memory-efficient, cross-platform tools and systems software.
 
 ---
 
 🧪 **What I'm Up To**  
-- 🔭 Currently building an open-source, cross-platform network monitor in **Rust**.
 - 🔬 Deepening expertise in **LLMs**, **vector search**, and **semantic search** pipelines.
-- 💻 Always crafting new tools with **TypeScript**, **Next.js**, and **Tauri**.
+- 💻 Always crafting new tools with **TypeScript**, **Next.js**, and **Golang**.
 
 ---
 
 📂 **Find My Work**  
-> 🧠 AI, 🌍 Web Apps, ⚙️ Rust Tools  
+> 🧠 AI, 🌍 Web Apps, ⚙️ Go Tools  
 Check out everything I’m building:  
 👉 [github.com/ViniTamanhao](https://github.com/ViniTamanhao)
 
