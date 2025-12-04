@@ -17,7 +17,7 @@
 ---
 
 📂 **Find My Work**  
-> 🧠 AI, 🌍 Web Apps, ⚙️ Go Tools  
+> 🧠 AI, 🌍 Web Apps, ⚙️ CLI tools
 Check out everything I’m building:  
 👉 [github.com/ViniTamanhao](https://github.com/ViniTamanhao)
 
